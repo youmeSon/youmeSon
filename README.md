@@ -1,6 +1,7 @@
 # Hello World! I am Youme 🍓
 
 <h3>🐾 Do you want to see my portfolio? -> Click this face <a href="https://youmeson.github.io/portfolio/">😛</a></h3>
+<h3> There is a crazy game I made -> ❗WARNING! <a href="https://youmeson.github.io/wally/">It's a little bit annyoing 🦸‍♀️</a></h3>
 
 <h2> My tech stack 📚 </h2>
 
