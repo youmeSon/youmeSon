@@ -2,7 +2,7 @@
 
 <h3>🐾 Do you want to see my portfolio? -> Click this face <a href="https://youmeson.github.io/portfolio/">😛</a></h3>
 <h3> There is a crazy game I made -> ❗WARNING! <a href="https://youmeson.github.io/wally/">It's a little bit annyoing 🦸‍♀️</a></h3>
-<h3> My React study -> <a href="[https://youmeson.github.io/portfolio/](https://youmeson.github.io/youtube-clone/)"> 🌟 Youtube clone 🌟</a>
+<h3> My React study -> <a href="https://youmeson.github.io/youtube-clone/"> 🌟 Youtube clone 🌟</a>
 
 &nbsp;
 <h2> My tech stack 📚 </h2>
