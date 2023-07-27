@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=vue-dot-js&logoColor=fff)
 
 
 <br/>
